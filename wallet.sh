@@ -1,3 +1,3 @@
 #!/bin/bash
 
-monetaryunitd -datadir=/data/wallet/ "$@"
+monetaryunit-cli -datadir=/data/wallet/ "$@"
